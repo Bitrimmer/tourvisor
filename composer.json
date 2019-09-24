@@ -1,7 +1,7 @@
 {
   "name": "bitrimmer-coder/tourvisor-pack",
   "description": "Integration with tourvisor.ru",
-
+  "minimum-stability": "master",
   "license": "GPL-3.0",
   "keywords": [
     "tourvisor",
