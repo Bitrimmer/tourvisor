@@ -9,7 +9,7 @@ PHP обертка для работы с API [tourvisor.ru](https://tourvisor.r
 ## Установка
 Установка в проект осуществляется при помощи **composer**: 
 
-`$ composer require bitrimmer/tourvisor`
+`$ composer require bitrimmer-coder/tourvisor-pack`
 
 Минимальные системные требования:
 `php: ^7.1.3`
